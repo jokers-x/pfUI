@@ -17,7 +17,7 @@ pfLocaleBagtypes["zhCN"] = {
 }
 
 pfLocaleShift["zhCN"] = { -- TODO
-  ['BattleStance'] = "Battle Stance",
+  ['BattleStance'] = "战斗姿态",
   ['DefensiveStance'] = "Defensive Stance",
   ['BerserkerStance'] = "Berserker Stance",
   ['wantBattleStance'] = "Must be in Battle Stance",
